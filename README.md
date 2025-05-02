@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mike2068
 - 👀 I’m interested in making stuffs with code
 - 🌱 I’m currently learning Javascript, discord.js and Angular framwork.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate in projects that spark my interest
+- 📫 Reach out to me at ductai2068@gmail.com
 
 <!---
 Mike2068/Mike2068 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

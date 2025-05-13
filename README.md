@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mike2068
-- 👀 I’m interested in making stuffs with code
+- 👋 Hi there, I’m Mike.
+- 👀 I’m interested in learning new things and applying them in my daily life.
 - 🌱 I’m currently learning Javascript, discord.js and Angular framwork.
 - 💞️ I’m looking to collaborate in projects that spark my interest
 - 📫 Reach out to me at ductai2068@gmail.com
